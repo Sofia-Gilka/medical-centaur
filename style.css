@@ -1,0 +1,75 @@
+h1{
+    text-align: center;
+    color: springgreen;
+  }
+
+h2 {
+    text-align: center;
+    color: lime;
+    font-size: 36px;
+    font-style: oblique;
+}  
+
+button:hover{
+    background: #02fa40;
+}
+
+button {
+    background: #df03fc;
+    border-radius: 7px;
+    cursor: pointer;
+    font-size: 24px;
+}
+.title{
+    color: springgreen;
+    font-size: 24px;
+    text-align: justify;
+}
+
+.description {
+    color: cyan;
+    font-size: 24px;
+    text-align: justify;
+}
+
+h3 {
+    color: rgb(37, 241, 126);
+    font-size: 30px;
+    text-align: center;
+}
+table {
+    color: rgb(243, 52, 218);
+    font-size: 24px;
+    text-align: left;
+}
+
+
+p {
+    color: aquamarine;
+    font-size: 24px;
+    text-align: justify;
+}
+ 
+#img {
+    text-align: center;
+}
+
+.leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+
+} 
+
+.rightimg  {
+    float: right; /* Выравнивание по правому краю  */ 
+    margin: 7px 0 7px 7px; /* Отступы вокруг картинки */
+   }
+ol {
+    color: aquamarine;
+    font-size: 24px;
+}   
+
+ul {
+    color: aquamarine;
+    font-size: 24px;
+}
